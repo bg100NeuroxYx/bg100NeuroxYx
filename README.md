@@ -94,7 +94,6 @@ Main concepts explored:
 
 My current learning path is mainly focused on:
 
-```text
 Python
    ↓
 Backend Development
