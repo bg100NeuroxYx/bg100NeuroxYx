@@ -94,17 +94,11 @@ Main concepts explored:
 
 My current learning path is mainly focused on:
 
-Python
-   -
-Backend Development
-   -
-REST APIs
-   -
-Databases
-   -
-Authentication
-   - 
-Artificial Intelligence
-   -
-AI Agents & Automation
+- Python
+- Backend Development
+- REST APIs
+- Databases
+- Authentication
+- Artificial Intelligence
+- AI Agents & Automation
 
